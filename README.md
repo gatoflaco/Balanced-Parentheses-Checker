@@ -25,4 +25,5 @@ This string has no parentheses, curly braces, or brackets.
 [({])}
 <(uwu<) this won't work
 done
+
 ![image showing the output of the program given the inputs](https://cdn.discordapp.com/attachments/930183886435135573/974012856506929203/unknown.png "output")
