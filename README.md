@@ -9,6 +9,7 @@ There's really nothing special to see here. In CSE 355 (Theoretical Computer Sci
 - unlike the basic TM from class, this one can work with any strings (as in, it may consist of more than just parentheses)
 - it handles brackets, curly braces, and angle braces, too
 - it does some stupid ascii trickery to cut down on code slightly, because all of the characters except parentheses happen to be 2 values away from each other like this:
+
 ![image showing that angle braces, curly braces, and brackets follow the same pattern in ascii](https://cdn.discordapp.com/attachments/930183886435135573/974010082444607498/unknown.png "ascii-table-screenshot")
 - it expects user input on loop, you must type "done" to finish
 
