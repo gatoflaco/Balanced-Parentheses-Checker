@@ -1,5 +1,5 @@
 # Balanced-Parentheses-Checker
-A simple implementation of a Turing Machine solution to the balanced parentheses problem.
+A simple implementation of a Turing machine solution to the balanced parentheses problem.
 
 ## Author: Isaac Jung
 
