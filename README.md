@@ -14,6 +14,7 @@ There's really nothing special to see here. In CSE 355 (Theoretical Computer Sci
 - it expects user input on loop, you must type "done" to finish
 
 ### Here is the example input I used, for easy copy-pasting:
+```
 ()
 (){}
 (hello_world())[5];
@@ -25,5 +26,5 @@ This string has no parentheses, curly braces, or brackets.
 [({])}
 <(uwu<) this won't work
 done
-
+```
 ![image showing the output of the program given the inputs](https://cdn.discordapp.com/attachments/930183886435135573/974012856506929203/unknown.png "output")
